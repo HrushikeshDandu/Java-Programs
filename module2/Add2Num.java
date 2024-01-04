@@ -1,4 +1,4 @@
-// Program to read numbers and add them using class
+
 import java.util.Scanner;
 
 public class Add2Num
